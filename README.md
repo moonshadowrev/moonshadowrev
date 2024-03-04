@@ -104,7 +104,6 @@
 
 ![MoonShadowREV's GitHub_Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moonshadowrev&show_icons=true&theme=dracula)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=moonshadowrev
 
 
 ## 🏆 GitHub Trophies
